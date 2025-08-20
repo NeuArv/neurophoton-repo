@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the Zenodo preprint and this repository."
+authors:
+  - family-names: "Mishra"
+    given-names: "Arvind Gyandatt"
+title: "NeuroPhoton companion code"
+version: "0.1.0"
+doi: "10.5281/zenodo.16884337"
+url: "https://zenodo.org/records/16884337"
