@@ -1,6 +1,8 @@
 # NeuroPhoton: Contactless BCIs — Code & Companion Materials
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16884337.svg)](https://doi.org/10.5281/zenodo.16884337)
+[![Tests](https://github.com/NeuArv/neurophoton-repo/actions/workflows/python-app.yml/badge.svg)](https://github.com/NeuArv/hybrid-bci-wheelchair/actions)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 **Title:** NeuroPhoton: A Theoretical Review and Modeling Framework for Contactless Brain–Computer Interfaces via Biophotonic, Electromagnetic, and Thermal Pathways
 
