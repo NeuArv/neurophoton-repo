@@ -24,7 +24,7 @@ The Zenodo record includes the preprint PDF and is licensed CC BY 4.0. This repo
 - `src/neurophoton/` — package for core models and utilities (placeholder)
 - `scripts/` — reproducible scripts (e.g., run simulations, reproduce figures)
 - `notebooks/` — Jupyter notebooks for exploration and figures
-- `data/` — small example data (if applicable)
+- `data/` — small example data
 - `docs/` — extended notes, README for data provenance
 - `CITATION.bib`, `CITATION.cff` — citation metadata (Zenodo DOI)
 - `NOTICES.md` — license and attribution guidance
